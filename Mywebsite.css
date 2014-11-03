@@ -1,0 +1,36 @@
+body {
+  background-color: turquoise;
+}
+
+h1 {
+  color: purple;
+  text-align: center;
+  padding-top: 1em;
+  font-family: "impact";
+}
+p {
+  color: black;;
+  text-align: center;
+  padding: 2em;
+  font-style: "italic";
+  background-color: Pink;
+  
+}
+
+li {
+  color: #00f;
+  font-style: italic;
+  background-color:white; 
+  padding: 2em;
+  border-radius: 3em;
+}
+
+li{
+  Color: black;
+  text-align: Center;
+  padding: 1em;
+  border-radius: 1em;
+  
+  
+}
+
